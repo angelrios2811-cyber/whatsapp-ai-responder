@@ -1,6 +1,7 @@
 # 🤖 WA-AI-Bot v2.0
 
 Auto-responder de WhatsApp con OpenAI + Dashboard en tiempo real.
+Deploy en Railway.
 
 ## ¿Qué hace?
 - Monitorea mensajes de WhatsApp
